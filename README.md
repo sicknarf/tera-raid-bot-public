@@ -24,12 +24,12 @@ Once you've clicked the above link, there are a few simple steps to get full bot
 7. Then, expand `Advanced permissions`.
     ![advancedpermissions](assets/screenshots/setup_7.png)
 8. Make sure the following permissions are approved for Tera Raid Bot: ***this next step is imperative for bot function***
-    - View Channel ***necessary to function***
-    - Send Messages ***necessary to function***
-    - Embed Links ***necessary to function***
-    - Manage Messages ***necessary to function***
-    - Use Application Commands ***necessary to function***
-    - Read Message History ***necessary to function***
+    - View Channel ***[necessary to function]***
+    - Send Messages ***[necessary to function]***
+    - Embed Links ***[necessary to function]***
+    - Manage Messages ***[necessary to function]***
+    - Use Application Commands ***[necessary to function]***
+    - Read Message History ***[necessary to function]***
     - Send Messages in Threads (for future functionality)
     - Create Public Threads (for future functionality)
     - Create Private Threads (for future functionality)
