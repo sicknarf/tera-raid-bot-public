@@ -58,5 +58,25 @@
         "Add Move 4": "????",
         "Ability 1": "Torrent",
         "Hidden Ability": "Protean"
+    },
+    {
+        "Name": "Franny",
+        "Base Type 1": "Normal",
+        "Base Type 2": "Dark",
+        "HP": 999,
+        "Atk": 999,
+        "Def": 999,
+        "Sp.Atk": 999,
+        "Sp.Def": 999,
+        "Spd": 999,
+        "Move 1": "Giga Impact",
+        "Move 2": "Roar of Time",
+        "Move 3": "Spacial Rend",
+        "Move 4": "Glacial Lance",
+        "Add Move 1": "Geomancy   ",
+        "Add Move 2": "Quiver Dance",
+        "Add Move 3": "No Retreat",
+        "Ability 1": "Huge Power",
+        "Ability 2": "Good as Gold"
     }
 ]

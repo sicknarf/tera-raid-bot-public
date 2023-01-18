@@ -284,7 +284,14 @@
         "Sp.Atk": 48,
         "Sp.Def": 48,
         "Speed": 48,
-        "Move 1": "Transform",
+        "Move 1": "The Host",
+        "Move 2": "Should use",
+        "Move 3": "Magikarp or",
+        "Move 4": "a Ditto",
+        "Add Move 1": "so that the",
+        "Add Move 2": "raid Ditto",
+        "Add Move 3": "fails its",
+        "Add Move 4": "transform move",
         "Ability 1": "Limber",
         "Hidden Ability": "Imposter"
     },
@@ -1306,5 +1313,25 @@
         "Add Move 3": "Light Screen",
         "Ability 1": "Flame Body",
         "Hidden Ability": "Swarm"
+    },
+    {
+        "Name": "Franny",
+        "Base Type 1": "Normal",
+        "Base Type 2": "Dark",
+        "HP": 999,
+        "Atk": 999,
+        "Def": 999,
+        "Sp.Atk": 999,
+        "Sp.Def": 999,
+        "Spd": 999,
+        "Move 1": "Giga Impact",
+        "Move 2": "Roar of Time",
+        "Move 3": "Spacial Rend",
+        "Move 4": "Glacial Lance",
+        "Add Move 1": "Quiver Dance",
+        "Add Move 2": "Geomancy   ",
+        "Add Move 3": "No Retreat",
+        "Ability 1": "Huge Power",
+        "Ability 2": "Good as Gold"
     }
 ]
