@@ -24,21 +24,21 @@ Once you've clicked the above link, there are a few simple steps to get full bot
 7. Then, expand `Advanced permissions`.
     ![advancedpermissions](assets/screenshots/setup_7.png)
 8. Make sure the following permissions are approved for Tera Raid Bot: ***this next step is imperative for bot function***
-    - View Channel ***[necessary to function]***
-    - Send Messages ***[necessary to function]***
-    - Embed Links ***[necessary to function]***
-    - Manage Messages ***[necessary to function]***
-    - Use Application Commands ***[necessary to function]***
-    - Read Message History ***[necessary to function]***
-    - Send Messages in Threads (for future functionality)
-    - Create Public Threads (for future functionality)
-    - Create Private Threads (for future functionality)
-    - Attach Files (for future functionality)
-    - Add Reactions (for future functionality)
-    - Use External Emoji (for future functionality)
-    - Use External Stickers (for future functionality)
-    - Mention `@everyone`, `@here`, and All Roles (for future functionality)
-    - Manage Threads (for future functionality)
+    - View Channel [^1]
+    - Send Messages [^1]
+    - Embed Links [^1]
+    - Manage Messages [^1]
+    - Use Application Commands [^1]
+    - Read Message History [^1]
+    - Send Messages in Threads [^bignote]
+    - Create Public Threads [^bignote]
+    - Create Private Threads [^bignote]
+    - Attach Files [^bignote]
+    - Add Reactions [^bignote]
+    - Use External Emoji [^bignote]
+    - Use External Stickers [^bignote]
+    - Mention `@everyone`, `@here`, and All Roles [^bignote]
+    - Manage Threads [^bignote]
 
     ![channelpermissions](assets/screenshots/setup_8.png)
 
@@ -76,3 +76,9 @@ ___
 My name is Francis, and you can find me across the internet with variations of the username `sicknarf`. I'm a dev currently on the hunt for a job, so if you're enjoying the bot and need a jr. dev for some work, make sure to shoot me a message!
 
 Here are my socials! [instagram](http://instagram.com/sicknarf/) | [twitch](http://twitch.tv/sicknarf) | [twitter](http://twitter.com/sick_narf)
+
+___
+[^1]: This is imperative for the code to function
+[^bignote]: This is for future functionality. 
+    You don't have to turn these on,
+    BUT leaving them off my impair how the bot works.
