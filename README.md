@@ -2,7 +2,32 @@
 
 ___
 
-Welcome to to the Tera Raid Bot! To get started, click [here](https://discord.com/api/oauth2/authorize?client_id=1064068854071963698&permissions=2198888513521&scope=bot%20applications.commands) and add the bot to your server!
+Welcome to to the Tera Raid Bot! To get started, click [here](https://discord.com/api/oauth2/authorize?client_id=1064068854071963698&permissions=2198888513521&scope=bot%20applications.commands) and add the bot to your server! [how to set up the bot](#setup-guide)
+
+## how to use
+
+Once you are all set up, using it is pretty straightforward. Just start with `/host`.
+
+1. Type `/host` to start the bot
+    ![hostcommand](assets/screenshots/howto_1.png)
+2. Enter the Pokémon that you are raiding, the tera type, and how many stars this raid is.
+    ![](assets/screenshots/howto_2.png)
+3. The post has been made! If there is a chance of each flavor of Herba Mystica to drop, the post will be marked as such.
+    ![](assets/screenshots/howto_3.png) ![](assets/screenshots/howto_4.png)
+4. Other trainers can now click ✅ to join the raid! Once it is full, the button will become unclickable.
+    ![](assets/screenshots/howto_5.png)
+5. If someone changes their mind and can no longer do the raid, just click ⬅️, and this message will display:
+    ![](assets/screenshots/howto_6.png)
+6. Once you are ready (you don't need to wait for 4 people), click START and it will ping everyone to get ready! Then send over the link code!
+    ![](assets/screenshots/howto_7.png)
+7. If for any reason you can no longer start the raid, simply click 🛑.
+    ![](assets/screenshots/howto_8.png)
+
+If you are worried about non-hosts trying to start and cancel the raid, this has already been accounted for:
+
+![nonhoststart](assets/screenshots/user_management_1.png) ![nonhostcancel](assets/screenshots/user_management_2.png)
+
+___
 
 ## setup guide
 
@@ -46,31 +71,6 @@ After that, you should be all set up and ready to use the bot!
 
 ___
 
-## how to use
-
-Once you are all set up, using it is pretty straightforward. Just start with `/host`.
-
-1. Type `/host` to start the bot
-    ![hostcommand](assets/screenshots/howto_1.png)
-2. Enter the Pokémon that you are raiding, the tera type, and how many stars this raid is.
-    ![](assets/screenshots/howto_2.png)
-3. The post has been made! If there is a chance of each flavor of Herba Mystica to drop, the post will be marked as such.
-    ![](assets/screenshots/howto_3.png) ![](assets/screenshots/howto_4.png)
-4. Other trainers can now click ✅ to join the raid! Once it is full, the button will become unclickable.
-    ![](assets/screenshots/howto_5.png)
-5. If someone changes their mind and can no longer do the raid, just click ⬅️, and this message will display:
-    ![](assets/screenshots/howto_6.png)
-6. Once you are ready (you don't need to wait for 4 people), click START and it will ping everyone to get ready! Then send over the link code!
-    ![](assets/screenshots/howto_7.png)
-7. If for any reason you can no longer start the raid, simply click 🛑.
-    ![](assets/screenshots/howto_8.png)
-
-If you are worried about non-hosts trying to start and cancel the raid, this has already been accounted for:
-
-![nonhoststart](assets/screenshots/user_management_1.png) ![nonhostcancel](assets/screenshots/user_management_2.png)
-
-___
-
 ## about me
 
 My name is Francis, and you can find me across the internet with variations of the username `sicknarf`. I'm a dev currently on the hunt for a job, so if you're enjoying the bot and need a jr. dev for some work, make sure to shoot me a message!
@@ -78,6 +78,7 @@ My name is Francis, and you can find me across the internet with variations of t
 Here are my socials! [instagram](http://instagram.com/sicknarf/) | [twitch](http://twitch.tv/sicknarf) | [twitter](http://twitter.com/sick_narf)
 
 ___
+
 [^1]: This is imperative for the code to function
 [^bignote]: This is for future functionality. 
     You don't have to turn these on,
