@@ -2,7 +2,9 @@
 
 ___
 
-Welcome to to the Tera Raid Bot! To get started, click [here](https://discord.com/api/oauth2/authorize?client_id=1064068854071963698&permissions=2198888513521&scope=bot%20applications.commands) and add the bot to your server! [how to set up the bot](#setup-guide)
+Welcome to to the Tera Raid Bot! To get started, click [here](https://discord.com/api/oauth2/authorize?client_id=1064068854071963698&permissions=2198888513521&scope=bot%20applications.commands) and add the bot to your server! 
+
+### [click here to jump to the setup guide](#setup-guide)
 
 ## how to use
 
