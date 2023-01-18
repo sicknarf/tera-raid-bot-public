@@ -9,52 +9,21 @@ Welcome to to the Tera Raid Bot! To get started, click [here](https://discord.co
 Once you've clicked the above link, there are a few simple steps to get full bot functionality onto your server. Click on the arrow icon for screenshot examples below.
 
 1. Go to the server settings of your Discord.
-    <details>
-    <summary>expand for screenshot</summary>
-    <br>
     ![serversettings](assets/screenshots/setup_1.png)
-    </details>
-2. Under `integrations`, look for `Sicknarf's Tera Raid Bot` and click `manage`.
-    <details>
-    <summary>expand for screenshot</summary>
-    <br>
-    ![manageintegrations](assets/screenshots/setup_2.png)
-    </details>
-3. Remove access to all channels, then add the channel you want to add the bot to.
-    <details>
-    <summary>expand for screenshot</summary>
-    <br>
-    ![channelaccess](assets/screenshots/setup_3.png)
-    </details>
-4. Then, go into the channel settings of the channel that you've added the bot to.
-    <details>
-    <summary>expand for screenshot</summary>
-    <br>
-    ![channelsettings](assets/screenshots/setup_4.png)
-    </details>
-5. Under `permissions`, click `Add members or roles`.
-    <details>
-    <summary>expand for screenshot</summary>
-    <br>
-    ![permissions](assets/screenshots/setup_5.png)
-    </details>
-6. Add `Tera Raid Bot` to permitted members.
-    <details>
-    <summary>expand for screenshot</summary>
-    <br>
-    ![permitbot](assets/screenshots/setup_6.png)
-    </details>
-7. Then, expand `Advanced permissions`.
-    <details>
-    <summary>expand for screenshot</summary>
-    <br>
-    ![advancedpermissions](assets/screenshots/setup_7.png)
-    </details>
-8. Make sure the following permissions are approved for Tera Raid Bot: ***this next step is imperative for bot function***
-    <details>
-    <summary>expand for permissions and screenshot</summary>
-    <br>
 
+2. Under `integrations`, look for `Sicknarf's Tera Raid Bot` and click `manage`.
+    ![manageintegrations](assets/screenshots/setup_2.png)
+3. Remove access to all channels, then add the channel you want to add the bot to.
+    ![channelaccess](assets/screenshots/setup_3.png)
+4. Then, go into the channel settings of the channel that you've added the bot to.
+    ![channelsettings](assets/screenshots/setup_4.png)
+5. Under `permissions`, click `Add members or roles`.
+    ![permissions](assets/screenshots/setup_5.png)
+6. Add `Tera Raid Bot` to permitted members.
+    ![permitbot](assets/screenshots/setup_6.png)
+7. Then, expand `Advanced permissions`.
+    ![advancedpermissions](assets/screenshots/setup_7.png)
+8. Make sure the following permissions are approved for Tera Raid Bot: ***this next step is imperative for bot function***
     - View Channel ***necessary to function***
     - Send Messages ***necessary to function***
     - Embed Links ***necessary to function***
@@ -72,7 +41,6 @@ Once you've clicked the above link, there are a few simple steps to get full bot
     - Manage Threads (for future functionality)
 
     ![channelpermissions](assets/screenshots/setup_8.png)
-    </details>
 
 After that, you should be all set up and ready to use the bot!
 
@@ -83,47 +51,19 @@ ___
 Once you are all set up, using it is pretty straightforward. Just start with `/host`.
 
 1. Type `/host` to start the bot
-    <details>
-    <summary>expand for screenshot</summary>
-    <br>
     ![hostcommand](assets/screenshots/howto_1.png)
-    </details>
 2. Enter the Pokémon that you are raiding, the tera type, and how many stars this raid is.
-    <details>
-    <summary>expand for screenshot</summary>
-    <br>
     ![](assets/screenshots/howto_2.png)
-    </details>
 3. The post has been made! If there is a chance of each flavor of Herba Mystica to drop, the post will be marked as such.
-    <details>
-    <summary>expand for screenshot</summary>
-    <br>
     ![](assets/screenshots/howto_3.png) ![](assets/screenshots/howto_4.png)
-    </details>
 4. Other trainers can now click ✅ to join the raid! Once it is full, the button will become unclickable.
-    <details>
-    <summary>expand for screenshot</summary>
-    <br>
     ![](assets/screenshots/howto_5.png)
-    </details>
 5. If someone changes their mind and can no longer do the raid, just click ⬅️, and this message will display:
-    <details>
-    <summary>expand for screenshot</summary>
-    <br>
     ![](assets/screenshots/howto_6.png)
-    </details>
 6. Once you are ready (you don't need to wait for 4 people), click START and it will ping everyone to get ready! Then send over the link code!
-    <details>
-    <summary>expand for screenshot</summary>
-    <br>
     ![](assets/screenshots/howto_7.png)
-    </details>
 7. If for any reason you can no longer start the raid, simply click 🛑.
-    <details>
-    <summary>expand for screenshot</summary>
-    <br>
     ![](assets/screenshots/howto_8.png)
-    </details>
 
 If you are worried about non-hosts trying to start and cancel the raid, this has already been accounted for:
 
